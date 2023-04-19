@@ -1,0 +1,38 @@
+.body{
+    background-color: #061121;
+}
+.centered {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.title{
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+.button1{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.text{
+    color: #F4D247;
+}
+.title2{
+    text-align: left;
+    width:40%;
+    word-wrap:break-word;
+    margin-left: 32%;
+
+}
+
